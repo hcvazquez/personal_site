@@ -10,3 +10,6 @@
 [submodule "hcvazquez.github.io"]
 	path = hcvazquez.github.io
 	url = git@github.com:hcvazquez/hcvazquez.github.io.git
+[submodule "hcvazquez.github.io/hcvazquez.github.io"]
+	path = hcvazquez.github.io/hcvazquez.github.io
+	url = git@github.com:hcvazquez/hcvazquez.github.io.git
